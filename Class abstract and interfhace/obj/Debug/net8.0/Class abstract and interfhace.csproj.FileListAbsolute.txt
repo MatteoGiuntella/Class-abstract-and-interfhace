@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\bin\Debug\net8.0\Class abstract and interfhace.exe
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\bin\Debug\net8.0\Class abstract and interfhace.deps.json
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\bin\Debug\net8.0\Class abstract and interfhace.runtimeconfig.json
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\bin\Debug\net8.0\Class abstract and interfhace.dll
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\bin\Debug\net8.0\Class abstract and interfhace.pdb
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.dll
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\refint\Class abstract and interfhace.dll
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.pdb
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\Class abstract and interfhace.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\C# Udemy\Class abstract and interfhace\Class abstract and interfhace\obj\Debug\net8.0\ref\Class abstract and interfhace.dll
